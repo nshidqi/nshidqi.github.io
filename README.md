@@ -102,7 +102,7 @@ My personal website to post my life update.
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
 * [Github Pages](https://pages.github.com/)
-* [Jekyll](https://jekyllrb.com/)
+<!-- * [Jekyll](https://jekyllrb.com/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
