@@ -1490,8 +1490,8 @@ $sidebar-display: "sidebar-display";
     bottom: 6.5rem;
   }
 
-  #search-wrapper {
-    // margin-right: 4rem;
+  #toggle-wrapper {
+    margin-right: 4rem;
   }
 
   #search-input {
@@ -1541,7 +1541,7 @@ $sidebar-display: "sidebar-display";
     left: $sidebar-width-large;
   }
 
-  #search-wrapper {
+  #toggle-wrapper{
     margin-right: calc(#{$main-content-max-width} * 0.25 - #{$search-max-width});
   }
 
