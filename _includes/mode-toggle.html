@@ -21,6 +21,12 @@
             this.setLight();
           }
         }
+      } else { /* just set the icon for the first time, don't change theme because it's initiated by CSS*/
+        if (this.isSysDarkPrefer) {
+          this.setIconDark();
+        } else {
+          this.setIconLight();
+        }
       }
 
       let self = this;
@@ -64,25 +70,46 @@
     get modeStatus() {
       if (this.isDarkMode
         || (!this.hasMode && this.isSysDarkPrefer)) {
+        this.setIconDark();
         return ModeToggle.DARK_MODE;
       } else {
+        this.setIconLight();
         return ModeToggle.LIGHT_MODE;
       }
+    }
+
+    // Naufal add method for setting toggle icon
+    setIconDark() {
+      const icon = document.getElementById('toggle-icon');
+      icon.classList.toggle('fa-moon', true);
+      icon.classList.toggle('fa-sun', false);
+    }
+
+    setIconLight() {
+      const icon = document.getElementById('toggle-icon');
+      icon.classList.toggle('fa-moon', false);
+      icon.classList.toggle('fa-sun', true);
     }
 
     setDark() {
       $('html').attr(ModeToggle.MODE_ATTR, ModeToggle.DARK_MODE);
       sessionStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.DARK_MODE);
+      this.setIconDark();
     }
 
     setLight() {
       $('html').attr(ModeToggle.MODE_ATTR, ModeToggle.LIGHT_MODE);
       sessionStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.LIGHT_MODE);
+      this.setIconLight();
     }
 
     clearMode() {
       $('html').removeAttr(ModeToggle.MODE_ATTR);
       sessionStorage.removeItem(ModeToggle.MODE_KEY);
+
+      const icon = document.getElementById('toggle-icon');
+      icon.classList.toggle('fa-moon');
+      icon.classList.toggle('fa-sun');
     }
 
     /* Notify another plugins that the theme mode has changed */

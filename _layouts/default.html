@@ -69,6 +69,11 @@ layout: compress
 
     {% include js-selector.html %}
 
+    <!-- Naufal move toggle html at the most bottom html -->
+    {% unless site.theme_mode %}
+      {% include mode-toggle.html %}
+    {% endunless %}
+
   </body>
 
 </html>
