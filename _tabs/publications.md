@@ -4,7 +4,7 @@ title: Publications
 icon: fas fa-book
 order: 3
 ---
-<i id="toggle-icon" class="fas fa-graduation-cap"></i>
+<i class="fas fa-graduation-cap"></i>
 [[Google Scholar]](https://scholar.google.com/citations?user=jM1bVc8AAAAJ&hl=en)
 
 **denotes equal contribution and joint authorship.*
