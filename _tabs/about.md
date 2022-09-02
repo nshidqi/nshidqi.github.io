@@ -26,7 +26,7 @@ I have been working with these technologies for my projects, research, and devel
 ## What do I do in my spare time? 
 In my free time, I usually solve and play Rubik's Cube (yes, that 3x3x3 twisty puzzle) and compete in a [Rubik's cube competition](https://www.worldcubeassociation.org/persons/2010SHID01). I also love photography, you can see my portfolio [here](https://www.pexels.com/@naufal-shidqi-212558394/). 
 
-## Where to contact me?
+## How to contact me?
 If you have a question or simply just want to say hi and have a discussion, you can find me online on these platforms.
 Feel free to reach me out about anything!
 <br>
