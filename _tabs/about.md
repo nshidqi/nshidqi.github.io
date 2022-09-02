@@ -11,7 +11,7 @@ I have experience in projects related to VLSI, IC design, embedded systems, and 
 
 Prior to this, I was a Development Team Lead and an Embedded System Engineer at [TSM Technologies](https://www.tsmid.com/) working on IoT & Android OS software platforms for industrial applications. I also worked as an IC Design Engineer at [Marvell Technology](https://www.marvell.com/). I earned my Bachelor’s Degree in Electrical Engineering from [Institut Teknologi Bandung (ITB)](https://www.itb.ac.id/) in 2015, under the supervision of [Dr. Widyawardana Adiprawita](https://scholar.google.com/citations?user=u4h4HYgAAAAJ&hl=en).
 
-Feel free to contact me through my contacts [below](#where-to-contact-me)!
+Feel free to contact me through my contacts [below](#how-to-contact-me)!
 
 ## What technology do I use?
 I have been working with these technologies for my projects, research, and development:
