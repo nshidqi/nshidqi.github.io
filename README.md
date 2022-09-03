@@ -28,14 +28,12 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <!-- <a href="https://github.com/nshidqi/nshidqi.github.io">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-<h1 align="center"><a href="https://github.com/nshidqi/nshidqi.github.io">nshidqi.github.io</a></h1>
-
+  <h1 align="center"><a href="https://github.com/nshidqi/nshidqi.github.io">nshidqi.github.io</a></h1>
   <p align="center">
     Simple personal website
     <br />
@@ -85,7 +83,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-My personal website to post my life update.
+My personal website for blog posts, publications, projects, CV, resume, and online portfolio.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +100,8 @@ My personal website to post my life update.
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
 * [Github Pages](https://pages.github.com/)
-<!-- * [Jekyll](https://jekyllrb.com/) -->
+* [Jekyll](https://jekyllrb.com/)
+* [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,7 +187,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
