@@ -29,7 +29,8 @@ description: >-                        # used by seo meta and the atom feed
   Applied Artificial Intelligence & Machine Learning, Edge/Mobile Computing, Computer Vision, and Data Science Enthusiast.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://nshidqi.github.io/'
+# url: 'https://nshidqi.github.io/'
+url: https://naufalshidqi.com/
 
 github:
   username: nshidqi             # change to your github username
