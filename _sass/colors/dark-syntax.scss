@@ -3,6 +3,11 @@
  */
 
 @mixin dark-syntax {
+  /* Naufal custom color */
+  --color-code-background: hsla(221, 39%, 15%, 1);
+  --color-code-word-highlight: hsl(212, 87%, 73%);//hsl(220, 100%, 80%, 1);
+  --color-code-light-background: hsl(212, 87%, 80%);//hsl(220, 100%, 85%, 1);
+
   /* syntax highlight colors from https://raw.githubusercontent.com/jwarby/pygments-css/master/monokai.css */
   .highlight pre { background-color: var(--highlight-bg-color); }
   .highlight .hll { background-color: var(--highlight-bg-color); }
@@ -70,13 +75,13 @@
 
   /* -----  custom styles ------ */
 
-  --highlight-bg-color: #252525;
-  --highlighter-rouge-color: #de6b18;
-  --highlight-lineno-color: #6c6c6d;
-  --inline-code-bg: #272822;
-  --code-header-text-color: #6a6a6a;
-  --code-header-muted-color: rgb(60 60 60);
-  --code-header-icon-color: rgb(86 86 86);
+  --highlight-bg-color: var(--color-code-background);//#252525;
+  --highlighter-rouge-color: var(--color-code-word-highlight);//#de6b18;
+  --highlight-lineno-color: var(--color-code-word-highlight);//#6c6c6d;
+  --inline-code-bg: var(--color-code-background);//#272822;
+  --code-header-text-color: var(--color-code-word-highlight);//#6a6a6a;
+  --code-header-muted-color: var(--color-code-light-background);//rgb(60 60 60);
+  --code-header-icon-color: var(--color-code-light-background);//rgb(86 86 86);
   --clipboard-checked-color: #2bcc2b;
   --filepath-text-color: #bdbdbd;
 
