@@ -45,11 +45,11 @@ social:
   email: hi.nshidqi@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/naufalshidqi
     - https://twitter.com/naufalsdq      # change to your twitter homepage
     - https://github.com/nshidqi       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/naufalshidqi
 
 google_site_verification: gDlyZOEMkwTdMLnIiV_UkMQTlws3mv3i9NXooJZtXBc # fill in to your verification string
 

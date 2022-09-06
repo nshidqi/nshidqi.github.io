@@ -96,6 +96,7 @@ img {
 blockquote {
   border-left: 5px solid var(--blockquote-border-color);
   padding-left: 1rem;
+  background-color: var(--blockquote-bg-color);
   color: var(--blockquote-text-color);
 
   &[class^="prompt-"] {
@@ -264,9 +265,9 @@ img[data-src] {
     margin: 0 0.35rem 0.5rem 0;
 
     &:hover {
-      background-color: #2a408e;
-      border-color: #2a408e;
-      color: #fff;
+      background-color: var(--color-accent);//#2a408e;
+      border-color: var(--color-accent);//#2a408e;
+      color: var(--color-back-primary);//#fff;
       transition: none;
     }
   }
@@ -530,7 +531,7 @@ img[data-src] {
   background: var(--tag-bg);
   border-radius: 0.3rem;
   padding: 0 0.4rem;
-  color: inherit;
+  color: var(--color-fore-secondary);//inherit;
   line-height: 1.3rem;
 
   &:not(:last-child) {
@@ -542,7 +543,7 @@ img[data-src] {
 
     border-bottom: none;
     text-decoration: none;
-    color: #d2603a;
+    color: var(--color-accent);//#d2603a;
   }
 }
 
@@ -679,7 +680,7 @@ $sidebar-display: "sidebar-display";
       transition: border-color 0.35s ease-in-out;
 
       &:hover {
-        border-color: white;
+        border-color: var(--sidebar-active-color);//white;
       }
     }
 
@@ -706,7 +707,7 @@ $sidebar-display: "sidebar-display";
       font-weight: 900;
       font-size: 1.5rem;
       letter-spacing: 0.5px;
-      color: rgba(134, 133, 133, 99%);
+      color: var(--text-color);//rgba(134, 133, 133, 99%);
     }
   }
 
@@ -890,7 +891,7 @@ $sidebar-display: "sidebar-display";
   right: 0;
   transition: top 0.2s ease-in-out;
   z-index: 50;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  border-bottom: 1px solid var(--color-back-secondary);//rgba(0, 0, 0, 0.07);
   background-color: var(--topbar-wrapper-bg);
 
   [data-topbar-visible=false] & {
@@ -900,12 +901,15 @@ $sidebar-display: "sidebar-display";
 
 #topbar {
   i { /* icons */
-    color: #999;
+    color: var(--color-fore-subtle);//#999;
+    &:hover {
+      color: var(--color-fore-primary);
+    }
   }
 
   #breadcrumb {
     font-size: 1rem;
-    color: gray;
+    color: var(--color-fore-secondary);//gray;
     padding-left: 0.5rem;
 
     a:hover {
@@ -1022,7 +1026,7 @@ $sidebar-display: "sidebar-display";
     }
 
     i { /* icons */
-      color: #818182;
+      color: var(--color-fore-secondary);//#818182;
       margin-right: 0.15rem;
       font-size: 80%;
     }
@@ -1044,6 +1048,7 @@ $sidebar-display: "sidebar-display";
   font-family: sans-serif;
   color: var(--topbar-text-color);
   text-align: center;
+  padding-left: 15%;
   width: 70%;
   overflow: hidden;
   text-overflow: ellipsis;
