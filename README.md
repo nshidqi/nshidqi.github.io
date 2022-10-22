@@ -1,4 +1,4 @@
-<!-- nshidqi.github.io v1.1.0 -->
+<!-- nshidqi.github.io v1.1.1 -->
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
