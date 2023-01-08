@@ -23,10 +23,10 @@ timezone: Asia/Seoul
 
 title: Naufal Shidqi                          # the main title
 
-tagline: Applied AI/ML & Data Science, Edge/Mobile Computing Enthusiast   # it will display as the sub-title
+tagline: Applied AI/ML/DL & Data Science, Edge/Mobile Computing Enthusiast   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Applied Artificial Intelligence & Machine Learning, Edge/Mobile Computing, Computer Vision, and Data Science Enthusiast.
+  Applied Artificial Intelligence, Machine Learning & Deep Learning, Edge/Mobile Computing, Computer Vision, and Data Science Enthusiast.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 # url: 'https://nshidqi.github.io/'
