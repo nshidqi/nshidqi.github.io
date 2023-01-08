@@ -2,7 +2,7 @@
 title: Pengalaman Perpanjang Paspor di KBRI Korea Selatan
 date: 2023-01-08 17:00:00 +0900
 categories: [Blogging]
-tags: [livinginkorea101]
+tags: [livinginkorea101, blog]
 comments: true
 math: false
 mermaid: false
