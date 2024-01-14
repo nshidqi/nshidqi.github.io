@@ -53,7 +53,7 @@ Untuk dokumen no. 2, ini yang harus disiapkan jauh-jauh hari sebelum datang ke K
 
 Ketika tanggal yang tertera pada surat NHIS tiba, kita sudah bisa datang ke kantor cabang NHIS terdekat. Jangan menunda-nunda karena nanti keluarga kita bisa ditagih iuran NHIS terpisah. Temen-temen bisa mengunjungi kantor NHIS terdekat kalau bisa bahasa Korea sedikit, atau minimal pakai aplikasi *translator*. Karena kantor NHIS yang bisa bahasa Inggris hanya ada di daerah Seoul, Ansan, Suwon, Incheon, dan Uijeongbu. 
 
-Temen-temen bisa cari kantor NHIS terdekat di *Naver Map* atau *Kakao Map* dengan *keyword* *"National Health Inscurance"*. Ketika sampai, langsung ambil nomor antrian dan menuju loket untuk menyerahkan semua dokumen yang diperlukan. Nanti petugasnya akan memberitahu kalau pendaftaran NHIS secara keluarga telah berhasil dan dipersilakan untuk pulang.
+Temen-temen bisa cari kantor NHIS terdekat di *Naver Map* atau *Kakao Map* dengan *keyword* *"National Health Insurance"*. Ketika sampai, langsung ambil nomor antrian dan menuju loket untuk menyerahkan semua dokumen yang diperlukan. Nanti petugasnya akan memberitahu kalau pendaftaran NHIS secara keluarga telah berhasil dan dipersilakan untuk pulang.
  
 
 ## Surat NHIS Keluarga
