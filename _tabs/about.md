@@ -5,7 +5,7 @@ order: 6
 ---
 
 ## Who am I?
-Hello, my name is Naufal Shidqi. I'm a technology and AI enthusiast currently studying for a Master’s Degree in [Computer Science](https://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/) and a student research assistant at the [Data Science Group of the Institute for Basic Science (IBS)](https://ds.ibs.re.kr/) advised by [Prof. Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en&oi=ao).
+Hello, my name is Naufal Shidqi. I'm a technology and AI enthusiast currently studying for a Master’s Degree in [Computer Science](https://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/) and a graduate research assistant at the [Data Science Group of the Institute for Basic Science (IBS)](https://ds.ibs.re.kr/) advised by [Prof. Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en&oi=ao).
 
 I have experience in projects related to VLSI, IC design, embedded systems, and the Android OS platforms. I am passionate about the research area of applied AI/Machine Learning (ML)/Deep Learning (DL), edge-device/mobile computing, and computer vision, as well as discovering useful patterns and knowledge extracted from data.
 
