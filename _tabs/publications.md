@@ -7,7 +7,15 @@ order: 3
 <i class="fas fa-graduation-cap"></i>
 <a class="btn-lang" href="https://scholar.google.com/citations?user=jM1bVc8AAAAJ&hl=en">Google Scholar</a>
 
-**denotes equal contribution and joint authorship.*
+**denotes equal contribution.*
+
+**Self Supervised Vision for Climate Downscaling**
+<br />
+Singh, K., Jeong, C., **Shidqi, N.**, Park, S., Nellikkattil, A., Zeller, E., & Cha, M.
+<br />
+*In proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024.*
+<br />
+<a class="btn-lang" href="https://arxiv.org/abs/2401.09466">arXiv</a>
 
 **Generating High-Resolution Regional Precipitation Using Conditional Diffusion Model**
 <br />
